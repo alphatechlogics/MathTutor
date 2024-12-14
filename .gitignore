@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Database
+math_tutor.db
+
+# Streamlit cache
+.streamlit/
+
+# IDE settings
+.vscode/
